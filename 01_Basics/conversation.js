@@ -11,4 +11,6 @@ let newn=String(n)
 console.log(typeof(newage));
 console.log(typeof(newn));
 
-
+//************************* Operators ****************
+//arithematoc operator
+//comparison operator
