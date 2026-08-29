@@ -12,3 +12,4 @@ accountcity="Bangaluru"
 console.log(accountid);
 
 console.table([accountEmail,accountid,accountPassword,accountcity])
+console.log(typeof(accountcity))
